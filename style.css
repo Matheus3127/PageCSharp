@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color:rgb(192, 184, 184);
+}
+main{
+    margin: 10%;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+}
+h4{
+    margin: 10px;
+}
+
+
+main .saiba{
+    margin-top: 5em;
+    margin-bottom: 3em;
+    text-align: center;
+}
+
+main .saiba span{
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.4);
+}
+
